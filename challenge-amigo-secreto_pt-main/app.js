@@ -38,6 +38,7 @@ function sortearAmigo(){
  const sorteado = document.createElement('li')
  sorteado.textContent = `O sorteado foi: ${nomes[indiceSorteado]}`
  document.getElementById('resultado').appendChild(sorteado)
+ ul.style.display = 'none'
  
  
  
