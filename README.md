@@ -1,31 +1,22 @@
-# sorteando_amigos
-Exercício proposto no Oracle Next Education.
+# Amigo Secreto
 
+Aplicação web para organizar sorteios de amigo secreto. Desenvolvida como exercício proposto no programa Oracle Next Education (ONE).
 
+## Visualizar
 
-# Projeto: Sorteio de Amigo Secreto
-
-Este projeto é uma aplicação web simples para realizar sorteios de amigo secreto. O usuário pode adicionar nomes de participantes, visualizar a lista adicionada e sortear aleatoriamente um nome da lista.
+[ohigorsant.github.io/sorteando_amigos](https://ohigorsant.github.io/sorteando_amigos/)
 
 ## Funcionalidades
 
-* Adição de nomes à lista de participantes
-* Validação para impedir entrada de nomes vazios
-* Visualização dos nomes adicionados
-* Sorteio aleatório de um nome da lista
-* Interface responsiva com layout básico
+- Adição de participantes por nome
+- Sorteio aleatório de pares
+- Exibição do resultado na tela
+- Interface simples e direta
 
-## Tecnologias Utilizadas
+## Tecnologias
 
-* HTML5
-* CSS3
-* JavaScript (puro)
+- HTML, CSS e JavaScript
 
+## Contexto
 
-## Observações
-
-* O sorteio realizado atualmente seleciona apenas um nome aleatoriamente.
-* Não há emparelhamento entre participantes (por exemplo: "João tira Maria").
-* Este projeto tem como principal objetivo a prática de lógica de programação e manipulação do DOM com JavaScript.
-
-
+Exercício desenvolvido durante o programa Oracle Next Education (ONE) em parceria com a Alura.
